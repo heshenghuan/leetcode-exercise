@@ -1,7 +1,21 @@
 # leetcode-exercise
 A record repository of leetcode exercise. Solution for LeetCode problems, for remember me not to relax in coding.
 
+
+
+## Year 2015
+
+### August
+
+|                    #                     | Title          | Solution | Difficulty | Tag                           |
+| :--------------------------------------: | :------------- | :------: | :--------: | :---------------------------- |
+| [263](https://leetcode.com/problems/ugly-number/) | Ugly Number    |   C++    |    Easy    | Math                          |
+| [268](https://leetcode.com/problems/missing-number/) | Missing Number |   C++    |   Medium   | Array, Math, Bit Manipulation |
+
+
+
 ## Year 2016
+
 ### May
 
 |                    #                     | Title                      | Solution | Difficulty | Tag                                   |
