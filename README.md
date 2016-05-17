@@ -24,4 +24,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [345](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Reverse Vowels of a String |   C++    |    Easy    | String, Two Pointers                  |
 | [67](https://leetcode.com/problems/add-binary/) | Add Binary                 |   C++    |    Easy    | String, Math                          |
 | [78](https://leetcode.com/problems/subsets/) | Subsets                    |   C++    |   Medium   | Array, Backtracking, Bit Manipulation |
+| [86](https://leetcode.com/problems/partition-list/) | Partition List             |   C++    |   Medium   | Linked List, Two Pointers             |
 
