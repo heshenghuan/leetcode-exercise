@@ -26,4 +26,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [78](https://leetcode.com/problems/subsets/) | Subsets                     |   C++    |   Medium   | Array, Backtracking, Bit Manipulation |
 | [86](https://leetcode.com/problems/partition-list/) | Partition List              |   C++    |   Medium   | Linked List, Two Pointers             |
 | [173](https://leetcode.com/problems/binary-search-tree-iterator/) | Binary Search Tree Iterator |   C++    |   Medium   | Tree, Stack, Design                   |
+| [332](https://leetcode.com/problems/reconstruct-itinerary/) | Reconstruct Itinerary       |   C++    |   Medium   | Depth-first Search, Graph             |
 
