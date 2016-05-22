@@ -30,4 +30,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Lowest Common Ancestor of a Binary Search Tree |   C++    |    Easy    | Tree                                  |
 | [118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle                        |   C++    |    Easy    | Array                                 |
 | [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses                        |   C++    |    Easy    | Stack, String                         |
+| [100](https://leetcode.com/problems/same-tree/) | Same Tree                                |   C++    |    Easy    | Tree, Depth-firsh Search              |
 
