@@ -33,4 +33,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [100](https://leetcode.com/problems/same-tree/) | Same Tree                                |   C++    |    Easy    | Tree, Depth-first Search              |
 | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree             |   C++    |    Easy    | Tree, Depth-first Search              |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock          |   C++    |    Easy    | Array, Dynamic Programming            |
+| [264](https://leetcode.com/problems/ugly-number-ii/) | Ugly Number II                           |   C++    |   Medium   | Dynamic Programming, Heap, Math       |
 
