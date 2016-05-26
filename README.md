@@ -34,5 +34,6 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree             | [C++](./2016/May/104_Maximum_Depth_of_Binary_Tree.cpp) |    Easy    | Tree, Depth-first Search              |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock          | [C++](./2016/May/121_Best_Time_to_Buy_and_Sell_Stock.cpp) |    Easy    | Array, Dynamic Programming            |
 | [264](https://leetcode.com/problems/ugly-number-ii/) | Ugly Number II                           | [C++](./2016/May/264_Ugly_Number_2.cpp)  |   Medium   | Dynamic Programming, Heap, Math       |
-| [55](https://leetcode.com/problems/jump-game/) | Jump Game                                |    [C++](./2016/May/55_Jump_Game.cpp)    |   Medium   | Greedy                                |
+| [55](https://leetcode.com/problems/jump-game/) | Jump Game                                |    [C++](./2016/May/55_Jump_Game.cpp)    |   Medium   | Array, Greedy                         |
+| [217](https://leetcode.com/problems/contains-duplicate/) | Contains Duplicate                       | [C++](./2016/May/217_Contains_Duplicate.cpp) |    Easy    | Array, Hash Table                     |
 
