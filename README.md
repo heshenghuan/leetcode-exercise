@@ -37,4 +37,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [55](https://leetcode.com/problems/jump-game/) | Jump Game                                |    [C++](./2016/May/55_Jump_Game.cpp)    |   Medium   | Array, Greedy                         |
 | [217](https://leetcode.com/problems/contains-duplicate/) | Contains Duplicate                       | [C++](./2016/May/217_Contains_Duplicate.cpp) |    Easy    | Array, Hash Table                     |
 | [219](https://leetcode.com/problems/contains-duplicate-ii/) | Contains Duplicate II                    | [C++](./2016/May/219_Contains_Duplicate_II.cpp) |    Easy    | Array, Hash Table                     |
+| [220](https://leetcode.com/problems/contains-duplicate-iii/) | Contains Duplicate III                   | [C++](./2016/May/220_Contains_Duplicate_III.cpp) |   Medium   | Binary Search Tree                    |
 
