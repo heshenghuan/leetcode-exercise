@@ -39,4 +39,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [219](https://leetcode.com/problems/contains-duplicate-ii/) | Contains Duplicate II                    | [C++](./2016/May/219_Contains_Duplicate_II.cpp) |    Easy    | Array, Hash Table                     |
 | [220](https://leetcode.com/problems/contains-duplicate-iii/) | Contains Duplicate III                   | [C++](./2016/May/220_Contains_Duplicate_III.cpp) |   Medium   | Binary Search Tree                    |
 | [133](https://leetcode.com/problems/clone-graph/) | Clone Graph                              |  [C++](./2016/May/133_Clone_Graph.cpp)   |   Medium   | DFS, BFS, Graph                       |
+| [231](https://leetcode.com/problems/power-of-two/) | Power of Two                             |  [C++](./2016/May/231_Power_of_Two.cpp)  |    Easy    | Math, Bit Manipulation                |
 
