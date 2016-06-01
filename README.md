@@ -42,3 +42,11 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [231](https://leetcode.com/problems/power-of-two/) | Power of Two                             |  [C++](./2016/May/231_Power_of_Two.cpp)  |    Easy    | Math, Bit Manipulation                |
 | [49](https://leetcode.com/problems/anagrams/) | Group Anagrams                           | [C++](./2016/May/49_Group_Anagrams.cpp)  |   Medium   | Hash Table, String                    |
 
+***
+
+### June
+
+|                    #                     | Title |             Solution             | Difficulty | Tag    |
+| :--------------------------------------: | ----- | :------------------------------: | :--------: | ------ |
+| [135](https://leetcode.com/problems/candy/) | Candy | [C++](./2016/June/135_Candy.cpp) |    Hard    | Greedy |
+
