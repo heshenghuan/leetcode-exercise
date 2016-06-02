@@ -46,7 +46,8 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 
 ### June
 
-|                    #                     | Title |             Solution             | Difficulty | Tag    |
-| :--------------------------------------: | ----- | :------------------------------: | :--------: | ------ |
-| [135](https://leetcode.com/problems/candy/) | Candy | [C++](./2016/June/135_Candy.cpp) |    Hard    | Greedy |
+|                    #                     | Title    |              Solution              | Difficulty | Tag          |
+| :--------------------------------------: | -------- | :--------------------------------: | :--------: | ------------ |
+| [135](https://leetcode.com/problems/candy/) | Candy    |  [C++](./2016/June/135_Candy.cpp)  |    Hard    | Greedy       |
+| [51](https://leetcode.com/problems/n-queens/) | N-Queens | [C++](./2016/June/51_N_Queens.cpp) |    Hard    | Backtracking |
 
