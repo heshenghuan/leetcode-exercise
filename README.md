@@ -46,8 +46,9 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 
 ### June
 
-|                    #                     | Title    |              Solution              | Difficulty | Tag          |
-| :--------------------------------------: | -------- | :--------------------------------: | :--------: | ------------ |
-| [135](https://leetcode.com/problems/candy/) | Candy    |  [C++](./2016/June/135_Candy.cpp)  |    Hard    | Greedy       |
-| [51](https://leetcode.com/problems/n-queens/) | N-Queens | [C++](./2016/June/51_N_Queens.cpp) |    Hard    | Backtracking |
+|                    #                     | Title                |                 Solution                 | Difficulty | Tag          |
+| :--------------------------------------: | -------------------- | :--------------------------------------: | :--------: | ------------ |
+| [135](https://leetcode.com/problems/candy/) | Candy                |     [C++](./2016/June/135_Candy.cpp)     |    Hard    | Greedy       |
+| [51](https://leetcode.com/problems/n-queens/) | N-Queens             |    [C++](./2016/June/51_N_Queens.cpp)    |    Hard    | Backtracking |
+| [119](https://leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | [C++](./2016/June/119_Pascal_s_Triangle_ii.cpp) |    Easy    | Array        |
 
