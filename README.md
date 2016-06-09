@@ -55,4 +55,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence      | [C++](./2016/June/128_Longest_Consecutive_Sequence.cpp) |    Hard    | Array, Union Find |
 | [71](https://leetcode.com/problems/simplify-path/) | Simplify Path                     | [C++](./2016/June/71_Simplify_Path.cpp)  |   Medium   | Stack, String     |
 | [205](https://leetcode.com/problems/isomorphic-strings/) | Isomorphic Strings                | [C++](./2016/June/205_Isomorphic_Strings.cpp) |    Easy    | Hash Table        |
+| [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation  | [C++](./2016/June/150_Evaluate_Reverse_Polish_Notation.cpp) |   Medium   | Stack             |
 
