@@ -56,4 +56,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [71](https://leetcode.com/problems/simplify-path/) | Simplify Path                     | [C++](./2016/June/71_Simplify_Path.cpp)  |   Medium   | Stack, String     |
 | [205](https://leetcode.com/problems/isomorphic-strings/) | Isomorphic Strings                | [C++](./2016/June/205_Isomorphic_Strings.cpp) |    Easy    | Hash Table        |
 | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation  | [C++](./2016/June/150_Evaluate_Reverse_Polish_Notation.cpp) |   Medium   | Stack             |
+| [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram                     | [C++](./2016/June/242_Valid_Anagram.cpp) |    Easy    | Hash Table, Sort  |
 
