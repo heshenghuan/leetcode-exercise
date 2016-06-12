@@ -59,4 +59,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram                            | [C++](./2016/June/242_Valid_Anagram.cpp) |    Easy    | Hash Table, Sort  |
 | [109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Convert Sorted List to Binary Search Tree | [C++](./2016/June/109_Convert_Sorted_List_to_Binary_Search_Tree.cpp) |   Medium   | DFS, Linked List  |
 | [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Convert Sorted Array to Binary Search Tree | [C++](./2016/June/108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp) |   Medium   | Tree, DFS         |
+| [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists                   | [C++](./2016/June/21_Merge_Two_Sorted_Lists.cpp) |    Easy    | Linked List       |
 
