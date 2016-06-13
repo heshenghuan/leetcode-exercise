@@ -46,18 +46,19 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 
 ### June
 
-|                    #                     | Title                                    |                 Solution                 | Difficulty | Tag               |
-| :--------------------------------------: | ---------------------------------------- | :--------------------------------------: | :--------: | ----------------- |
-| [135](https://leetcode.com/problems/candy/) | Candy                                    |     [C++](./2016/June/135_Candy.cpp)     |    Hard    | Greedy            |
-| [51](https://leetcode.com/problems/n-queens/) | N-Queens                                 |    [C++](./2016/June/51_N_Queens.cpp)    |    Hard    | Backtracking      |
-| [119](https://leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II                     | [C++](./2016/June/119_Pascal_s_Triangle_ii.cpp) |    Easy    | Array             |
-| [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Binary Tree Level Order Traversal        | [C++](./2016/June/102_Binary_Tree_Level_Order_Traversal.cpp) |    Easy    | Tree, BFS         |
-| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence             | [C++](./2016/June/128_Longest_Consecutive_Sequence.cpp) |    Hard    | Array, Union Find |
-| [71](https://leetcode.com/problems/simplify-path/) | Simplify Path                            | [C++](./2016/June/71_Simplify_Path.cpp)  |   Medium   | Stack, String     |
-| [205](https://leetcode.com/problems/isomorphic-strings/) | Isomorphic Strings                       | [C++](./2016/June/205_Isomorphic_Strings.cpp) |    Easy    | Hash Table        |
-| [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation         | [C++](./2016/June/150_Evaluate_Reverse_Polish_Notation.cpp) |   Medium   | Stack             |
-| [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram                            | [C++](./2016/June/242_Valid_Anagram.cpp) |    Easy    | Hash Table, Sort  |
-| [109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Convert Sorted List to Binary Search Tree | [C++](./2016/June/109_Convert_Sorted_List_to_Binary_Search_Tree.cpp) |   Medium   | DFS, Linked List  |
-| [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Convert Sorted Array to Binary Search Tree | [C++](./2016/June/108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp) |   Medium   | Tree, DFS         |
-| [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists                   | [C++](./2016/June/21_Merge_Two_Sorted_Lists.cpp) |    Easy    | Linked List       |
+|                    #                     | Title                                    |                 Solution                 | Difficulty | Tag                                      |
+| :--------------------------------------: | ---------------------------------------- | :--------------------------------------: | :--------: | ---------------------------------------- |
+| [135](https://leetcode.com/problems/candy/) | Candy                                    |     [C++](./2016/June/135_Candy.cpp)     |    Hard    | Greedy                                   |
+| [51](https://leetcode.com/problems/n-queens/) | N-Queens                                 |    [C++](./2016/June/51_N_Queens.cpp)    |    Hard    | Backtracking                             |
+| [119](https://leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II                     | [C++](./2016/June/119_Pascal_s_Triangle_ii.cpp) |    Easy    | Array                                    |
+| [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Binary Tree Level Order Traversal        | [C++](./2016/June/102_Binary_Tree_Level_Order_Traversal.cpp) |    Easy    | Tree, BFS                                |
+| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence             | [C++](./2016/June/128_Longest_Consecutive_Sequence.cpp) |    Hard    | Array, Union Find                        |
+| [71](https://leetcode.com/problems/simplify-path/) | Simplify Path                            | [C++](./2016/June/71_Simplify_Path.cpp)  |   Medium   | Stack, String                            |
+| [205](https://leetcode.com/problems/isomorphic-strings/) | Isomorphic Strings                       | [C++](./2016/June/205_Isomorphic_Strings.cpp) |    Easy    | Hash Table                               |
+| [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation         | [C++](./2016/June/150_Evaluate_Reverse_Polish_Notation.cpp) |   Medium   | Stack                                    |
+| [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram                            | [C++](./2016/June/242_Valid_Anagram.cpp) |    Easy    | Hash Table, Sort                         |
+| [109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Convert Sorted List to Binary Search Tree | [C++](./2016/June/109_Convert_Sorted_List_to_Binary_Search_Tree.cpp) |   Medium   | DFS, Linked List                         |
+| [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Convert Sorted Array to Binary Search Tree | [C++](./2016/June/108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp) |   Medium   | Tree, DFS                                |
+| [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists                   | [C++](./2016/June/21_Merge_Two_Sorted_Lists.cpp) |    Easy    | Linked List                              |
+| [349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays               | [C++](./2016/June/349_Intersection_of_Two_Arrays.cpp) |    Easy    | Binary Search, Hash Table, Two Pointers, Sort |
 
