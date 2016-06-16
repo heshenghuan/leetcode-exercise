@@ -63,4 +63,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays               | [C++](./2016/June/349_Intersection_of_Two_Arrays.cpp) |    Easy    | Binary Search, Hash Table, Two Pointers, Sort |
 | [143](https://leetcode.com/problems/reorder-list/) | Reorder List                             | [C++](./2016/June/143_Reorder_List.cpp)  |   Medium   | Linked List                              |
 | [52](https://leetcode.com/problems/n-queens-ii/) | N-Queens II                              |  [C++](./2016/June/52_N_Queens_II.cpp)   |    Hard    | Backtracking                             |
+| [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Remove Duplicates from Sorted List       | [C++](./2016/June/83_Remove_Duplicates_from_Sorted_List.cpp) |    Easy    | Linked List                              |
 
