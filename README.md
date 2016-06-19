@@ -65,4 +65,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [52](https://leetcode.com/problems/n-queens-ii/) | N-Queens II                              |  [C++](./2016/June/52_N_Queens_II.cpp)   |    Hard    | Backtracking                             |
 | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Remove Duplicates from Sorted List       | [C++](./2016/June/83_Remove_Duplicates_from_Sorted_List.cpp) |    Easy    | Linked List                              |
 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Best Time to Buy and Sell Stock II       | [C++](./2016/June/122_Best_Time_to_Buy_and_Sell_Stock_II.cpp) |   Medium   | Array, Greedy                            |
+| [144](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Binary Tree Preorder Traversal           | [C++](./2016/June/144_Binary_Tree_Preorder_Traversal.cpp) |   Medium   | Tree, Stack                              |
 
