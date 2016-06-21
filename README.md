@@ -67,4 +67,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Best Time to Buy and Sell Stock II       | [C++](./2016/June/122_Best_Time_to_Buy_and_Sell_Stock_II.cpp) |   Medium   | Array, Greedy                            |
 | [144](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Binary Tree Preorder Traversal           | [C++](./2016/June/144_Binary_Tree_Preorder_Traversal.cpp) |   Medium   | Tree, Stack                              |
 | [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Delete Node in a Linked List             | [C++](./2016/June/237_Delete_Node_in_a_Linked_List.cpp) |    Easy    | Linked List                              |
+| [350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Intersection of Two Arrays II            | [C++](./2016/June/350_Intersection_of_Two_Arrays_II.cpp) |    Easy    | Binary Search, Hash Table, Two Pointers, Sort |
 
