@@ -69,4 +69,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Delete Node in a Linked List             | [C++](./2016/June/237_Delete_Node_in_a_Linked_List.cpp) |    Easy    | Linked List                              |
 | [350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Intersection of Two Arrays II            | [C++](./2016/June/350_Intersection_of_Two_Arrays_II.cpp) |    Easy    | Binary Search, Hash Table, Two Pointers, Sort |
 | [226](https://leetcode.com/problems/invert-binary-tree/) | Invert Binary Tree                       | [C++](./2016/June/226_Invert_Binary_Tree.cpp) |    Easy    | Tree                                     |
+| [195](https://leetcode.com/problems/tenth-line/) | Tenth Line                               |  [Shell](./2016/June/195_Tenth_Line.sh)  |    Easy    | Bash                                     |
 
