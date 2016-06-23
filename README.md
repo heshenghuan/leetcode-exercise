@@ -70,4 +70,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Intersection of Two Arrays II            | [C++](./2016/June/350_Intersection_of_Two_Arrays_II.cpp) |    Easy    | Binary Search, Hash Table, Two Pointers, Sort |
 | [226](https://leetcode.com/problems/invert-binary-tree/) | Invert Binary Tree                       | [C++](./2016/June/226_Invert_Binary_Tree.cpp) |    Easy    | Tree                                     |
 | [195](https://leetcode.com/problems/tenth-line/) | Tenth Line                               |  [Shell](./2016/June/195_Tenth_Line.sh)  |    Easy    | Bash                                     |
+| [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Kth Largest Elements in an Array         | [C++](./2016/June/215_Kth_Largest_Element_in_an_Array.cpp) |   Medium   | Heap, Divide and Conquer                 |
 
