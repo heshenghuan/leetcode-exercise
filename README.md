@@ -72,4 +72,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [195](https://leetcode.com/problems/tenth-line/) | Tenth Line                               |  [Shell](./2016/June/195_Tenth_Line.sh)  |    Easy    | Bash                                     |
 | [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Kth Largest Elements in an Array         | [C++](./2016/June/215_Kth_Largest_Element_in_an_Array.cpp) |   Medium   | Heap, Divide and Conquer                 |
 | [111](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Minimum Depth of Binary Tree             | [C++](./2016/June/111_Minimum_Depth_of_Binary_Tree.cpp) |    Easy    | Tree, DFS, BFS                           |
+| [110](https://leetcode.com/problems/balanced-binary-tree/) | Balanced Binary Tree                     | [C++](./2016/June/110_Balanced_Binary_Tree.cpp) |    Easy    | Tree, DFS                                |
 
