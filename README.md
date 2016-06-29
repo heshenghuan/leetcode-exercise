@@ -74,4 +74,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [111](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Minimum Depth of Binary Tree             | [C++](./2016/June/111_Minimum_Depth_of_Binary_Tree.cpp) |    Easy    | Tree, DFS, BFS                           |
 | [110](https://leetcode.com/problems/balanced-binary-tree/) | Balanced Binary Tree                     | [C++](./2016/June/110_Balanced_Binary_Tree.cpp) |    Easy    | Tree, DFS                                |
 | [257](https://leetcode.com/problems/binary-tree-paths/) | Binary Tree Paths                        | [C++](./2016/June/257_Binary_Tree_Paths.cpp) |    Easy    | Tree, DFS                                |
+| [222](https://leetcode.com/problems/count-complete-tree-nodes/) | Count Complete Tree Nodes                | [C++](./2016/June/222_Count_Complete_Tree_Nodes.cpp) |   Medium   | Tree, Binary Search                      |
 
