@@ -77,3 +77,9 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [222](https://leetcode.com/problems/count-complete-tree-nodes/) | Count Complete Tree Nodes                | [C++](./2016/June/222_Count_Complete_Tree_Nodes.cpp) |   Medium   | Tree, Binary Search                      |
 | [241](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Different Ways to Add Parentheses        | [C++](./2016/June/241_Different_Ways_to_Add_Parentheses.cpp) |   Medium   | Divide and Conquer                       |
 
+### July
+
+|                    #                     | Title                     |                 Solution                 | Difficulty | Tag                                |
+| :--------------------------------------: | ------------------------- | :--------------------------------------: | :--------: | ---------------------------------- |
+| [287](https://leetcode.com/problems/find-the-duplicate-number/) | Find the Duplicate Number | [C++](./2016/July/287_Find_the_Duplicate_Number.cpp) |    Hard    | Binary Search, Array, Two Pointers |
+
