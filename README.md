@@ -83,4 +83,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | :--------------------------------------: | ------------------------- | :--------------------------------------: | :--------: | ---------------------------------- |
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | Find the Duplicate Number | [C++](./2016/July/287_Find_the_Duplicate_Number.cpp) |    Hard    | Binary Search, Array, Two Pointers |
 | [342](https://leetcode.com/problems/power-of-four/) | Power of Four             | [C++](./2016/July/342_Power_of_Four.cpp) |    Easy    | Bit Manipulation                   |
+| [136](https://leetcode.com/problems/single-number/) | Single Number             | [C++](./2016/July/136_Single_Number.cpp) |   Medium   | Hash Table, Bit Manipulation       |
 
