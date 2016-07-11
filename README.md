@@ -89,4 +89,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [45](https://leetcode.com/problems/jump-game-ii/) | Jump Game II              |  [C++](./2016/July/45_Jump_Game_II.cpp)  |    Hard    | Greedy, Array                      |
 | [134](https://leetcode.com/problems/gas-station/) | Gas Station               |  [C++](./2016/July/134_Gas_Station.cpp)  |   Medium   | Greedy                             |
 | [328](https://leetcode.com/problems/odd-even-linked-list/) | Odd Even Linked List      | [C++](./2016/July/328_Odd_Even_Linked_List.cpp) |   Medium   | Linked List                        |
+| [112](https://leetcode.com/problems/path-sum/) | Path Sum                  |   [C++](./2016/July/112_Path_Sum.cpp)    |    Easy    | Tree, DFS                          |
 
