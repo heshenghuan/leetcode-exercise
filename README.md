@@ -79,16 +79,17 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 
 ### July
 
-|                    #                     | Title                     |                 Solution                 | Difficulty | Tag                                |
-| :--------------------------------------: | ------------------------- | :--------------------------------------: | :--------: | ---------------------------------- |
-| [287](https://leetcode.com/problems/find-the-duplicate-number/) | Find the Duplicate Number | [C++](./2016/July/287_Find_the_Duplicate_Number.cpp) |    Hard    | Binary Search, Array, Two Pointers |
-| [342](https://leetcode.com/problems/power-of-four/) | Power of Four             | [C++](./2016/July/342_Power_of_Four.cpp) |    Easy    | Bit Manipulation                   |
-| [136](https://leetcode.com/problems/single-number/) | Single Number             | [C++](./2016/July/136_Single_Number.cpp) |   Medium   | Hash Table, Bit Manipulation       |
-| [137](https://leetcode.com/problems/single-number-ii/) | Single Number II          | [C++](./2016/July/137_Single_Number_II.cpp) |   Medium   | Bit Manipulation                   |
-| [260](https://leetcode.com/problems/single-number-iii/) | Single Number III         | [C++](./2016/July/260_Single_Number_III.cpp) |   Medium   | Bit Manipulation                   |
-| [45](https://leetcode.com/problems/jump-game-ii/) | Jump Game II              |  [C++](./2016/July/45_Jump_Game_II.cpp)  |    Hard    | Greedy, Array                      |
-| [134](https://leetcode.com/problems/gas-station/) | Gas Station               |  [C++](./2016/July/134_Gas_Station.cpp)  |   Medium   | Greedy                             |
-| [328](https://leetcode.com/problems/odd-even-linked-list/) | Odd Even Linked List      | [C++](./2016/July/328_Odd_Even_Linked_List.cpp) |   Medium   | Linked List                        |
-| [112](https://leetcode.com/problems/path-sum/) | Path Sum                  |   [C++](./2016/July/112_Path_Sum.cpp)    |    Easy    | Tree, DFS                          |
-| [113](https://leetcode.com/problems/path-sum-ii/) | Path Sum II               |  [C++](./2016/July/113_Path_Sum_II.cpp)  |   Medium   | Tree, DFS                          |
+|                    #                     | Title                       |                 Solution                 | Difficulty | Tag                                |
+| :--------------------------------------: | --------------------------- | :--------------------------------------: | :--------: | ---------------------------------- |
+| [287](https://leetcode.com/problems/find-the-duplicate-number/) | Find the Duplicate Number   | [C++](./2016/July/287_Find_the_Duplicate_Number.cpp) |    Hard    | Binary Search, Array, Two Pointers |
+| [342](https://leetcode.com/problems/power-of-four/) | Power of Four               | [C++](./2016/July/342_Power_of_Four.cpp) |    Easy    | Bit Manipulation                   |
+| [136](https://leetcode.com/problems/single-number/) | Single Number               | [C++](./2016/July/136_Single_Number.cpp) |   Medium   | Hash Table, Bit Manipulation       |
+| [137](https://leetcode.com/problems/single-number-ii/) | Single Number II            | [C++](./2016/July/137_Single_Number_II.cpp) |   Medium   | Bit Manipulation                   |
+| [260](https://leetcode.com/problems/single-number-iii/) | Single Number III           | [C++](./2016/July/260_Single_Number_III.cpp) |   Medium   | Bit Manipulation                   |
+| [45](https://leetcode.com/problems/jump-game-ii/) | Jump Game II                |  [C++](./2016/July/45_Jump_Game_II.cpp)  |    Hard    | Greedy, Array                      |
+| [134](https://leetcode.com/problems/gas-station/) | Gas Station                 |  [C++](./2016/July/134_Gas_Station.cpp)  |   Medium   | Greedy                             |
+| [328](https://leetcode.com/problems/odd-even-linked-list/) | Odd Even Linked List        | [C++](./2016/July/328_Odd_Even_Linked_List.cpp) |   Medium   | Linked List                        |
+| [112](https://leetcode.com/problems/path-sum/) | Path Sum                    |   [C++](./2016/July/112_Path_Sum.cpp)    |    Easy    | Tree, DFS                          |
+| [113](https://leetcode.com/problems/path-sum-ii/) | Path Sum II                 |  [C++](./2016/July/113_Path_Sum_II.cpp)  |   Medium   | Tree, DFS                          |
+| [303](https://leetcode.com/problems/range-sum-query-immutable/) | Range Sum Query - Immutable | [C++](./2016/July/303_Range_Sum_Query_Immutable.cpp) |    Easy    | Dynamic Programming                |
 
