@@ -95,3 +95,8 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle           | [C++](./2016/July/141_Linked_List_Cycle.cpp) |    Easy    | Linked List, Two Pointers          |
 | [279](https://leetcode.com/problems/perfect-squares/) | Perfect Squares             | [C++](./2016/July/279_Perfect_Squares.cpp) |   Medium   | Dynamic Programming, BFS, Math     |
 
+### August
+
+|                    #                     | Title       |                Solution                 | Difficulty | Tag                       |
+| :--------------------------------------: | ----------- | :-------------------------------------: | :--------: | ------------------------- |
+| [75](https://leetcode.com/problems/sort-colors/) | Sort Colors | [C++](./2016/August/75_Sort_Colors.cpp) |   Medium   | Array, Two Pointers, Sort |
