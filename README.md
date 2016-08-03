@@ -101,3 +101,4 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | :--------------------------------------: | ------------------------ | :--------------------------------------: | :--------: | ------------------------- |
 | [75](https://leetcode.com/problems/sort-colors/) | Sort Colors              | [C++](./2016/August/75_Sort_Colors.cpp)  |   Medium   | Array, Two Pointers, Sort |
 | [25](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Reverse Nodes in k-Group | [C++](./2016/August/25_Reverse_Nodes_in_k_Group.cpp) |    Hard    | Linked List               |
+| [198](https://leetcode.com/problems/house-robber/) | House Robber             | [C++](./2016/August/198_House_Robber.cpp) |    Easy    | Dynamic Programming       |
