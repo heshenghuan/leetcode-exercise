@@ -97,13 +97,14 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 
 ### August
 
-|                    #                     | Title                    |                 Solution                 | Difficulty | Tag                        |
-| :--------------------------------------: | ------------------------ | :--------------------------------------: | :--------: | -------------------------- |
-| [75](https://leetcode.com/problems/sort-colors/) | Sort Colors              | [C++](./2016/August/75_Sort_Colors.cpp)  |   Medium   | Array, Two Pointers, Sort  |
-| [25](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Reverse Nodes in k-Group | [C++](./2016/August/25_Reverse_Nodes_in_k_Group.cpp) |    Hard    | Linked List                |
-| [198](https://leetcode.com/problems/house-robber/) | House Robber             | [C++](./2016/August/198_House_Robber.cpp) |    Easy    | Dynamic Programming        |
-| [213](https://leetcode.com/problems/house-robber-ii/) | House Robber II          | [C++](./2016/August/213_House_Robber_II.cpp) |   Medium   | Dynamic Programming        |
-| [337](https://leetcode.com/problems/house-robber-iii/) | House Robber III         | [C++](./2016/August/337_House_Robber_III.cpp) |   Medium   | Tree, DFS                  |
-| [62](https://leetcode.com/problems/unique-paths/) | Unique Paths             | [C++](./2016/August/62_Unique_Paths.cpp) |   Medium   | Array, Dynamic Programming |
-| [63](https://leetcode.com/problems/unique-paths-ii/) | Unique Paths II          | [C++](./2016/August/63_Unique_Paths_II.cpp) |   Medium   | Array, Dynamic Programming |
+|                    #                     | Title                       |                 Solution                 | Difficulty | Tag                        |
+| :--------------------------------------: | --------------------------- | :--------------------------------------: | :--------: | -------------------------- |
+| [75](https://leetcode.com/problems/sort-colors/) | Sort Colors                 | [C++](./2016/August/75_Sort_Colors.cpp)  |   Medium   | Array, Two Pointers, Sort  |
+| [25](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Reverse Nodes in k-Group    | [C++](./2016/August/25_Reverse_Nodes_in_k_Group.cpp) |    Hard    | Linked List                |
+| [198](https://leetcode.com/problems/house-robber/) | House Robber                | [C++](./2016/August/198_House_Robber.cpp) |    Easy    | Dynamic Programming        |
+| [213](https://leetcode.com/problems/house-robber-ii/) | House Robber II             | [C++](./2016/August/213_House_Robber_II.cpp) |   Medium   | Dynamic Programming        |
+| [337](https://leetcode.com/problems/house-robber-iii/) | House Robber III            | [C++](./2016/August/337_House_Robber_III.cpp) |   Medium   | Tree, DFS                  |
+| [62](https://leetcode.com/problems/unique-paths/) | Unique Paths                | [C++](./2016/August/62_Unique_Paths.cpp) |   Medium   | Array, Dynamic Programming |
+| [63](https://leetcode.com/problems/unique-paths-ii/) | Unique Paths II             | [C++](./2016/August/63_Unique_Paths_II.cpp) |   Medium   | Array, Dynamic Programming |
+| [10](https://leetcode.com/problems/regular-expression-matching/) | Regular Expression Matching | [C++](./2016/August/10_Regular_Expression_Matching.cpp) |    Hard    | Dynamic Programming,       |
 
