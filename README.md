@@ -107,4 +107,5 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [62](https://leetcode.com/problems/unique-paths/) | Unique Paths                | [C++](./2016/August/62_Unique_Paths.cpp) |   Medium   | Array, Dynamic Programming |
 | [63](https://leetcode.com/problems/unique-paths-ii/) | Unique Paths II             | [C++](./2016/August/63_Unique_Paths_II.cpp) |   Medium   | Array, Dynamic Programming |
 | [10](https://leetcode.com/problems/regular-expression-matching/) | Regular Expression Matching | [C++](./2016/August/10_Regular_Expression_Matching.cpp) |    Hard    | Dynamic Programming,       |
+| [146](https://leetcode.com/problems/lru-cache/) | LRU Cache                   |  [C++](./2016/Augut/146_LRU_Cache.cpp)   |    Hard    | Design                     |
 
