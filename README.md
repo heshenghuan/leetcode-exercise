@@ -110,3 +110,8 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [146](https://leetcode.com/problems/lru-cache/) | LRU Cache                                |  [C++](./2016/Augut/146_LRU_Cache.cpp)   |    Hard    | Design                     |
 | [105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Construct Binary Tree from Preorder and Inorder Traversal | [C++](./2016/August/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp) |   Medium   | Tree, Array, DFS           |
 
+### September
+
+|                    #                     | Title           |                 Solution                 | Difficulty | Tag   |
+| :--------------------------------------: | --------------- | :--------------------------------------: | :--------: | ----- |
+| [73](https://leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zero | [C++](./2016/September/73_Set_Matrix_Zero.cpp) |   Medium   | Array |
