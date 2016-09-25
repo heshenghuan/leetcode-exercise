@@ -112,7 +112,8 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 
 ### September
 
-|                    #                     | Title           |                 Solution                 | Difficulty | Tag                       |
-| :--------------------------------------: | --------------- | :--------------------------------------: | :--------: | ------------------------- |
-| [73](https://leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zero | [C++](./2016/September/73_Set_Matrix_Zero.cpp) |   Medium   | Array                     |
-| [61](https://leetcode.com/problems/rotate-list/) | Rotate List     | [C++](./2016/September/61_Rotate_List.cpp) |   Medium   | Linked List, Two Pointers |
+|                    #                     | Title            |                 Solution                 | Difficulty | Tag                                      |
+| :--------------------------------------: | ---------------- | :--------------------------------------: | :--------: | ---------------------------------------- |
+| [73](https://leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zero  | [C++](./2016/September/73_Set_Matrix_Zero.cpp) |   Medium   | Array                                    |
+| [61](https://leetcode.com/problems/rotate-list/) | Rotate List      | [C++](./2016/September/61_Rotate_List.cpp) |   Medium   | Linked List, Two Pointers                |
+| [53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | [C++](./September/53_Maximum_Subarray.cpp) |   Medium   | Array, Dynamic Programming, Divide and Conquer |
