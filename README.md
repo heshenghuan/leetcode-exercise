@@ -118,3 +118,9 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [61](https://leetcode.com/problems/rotate-list/) | Rotate List      | [C++](./2016/September/61_Rotate_List.cpp) |   Medium   | Linked List, Two Pointers                |
 | [53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | [C++](./2016/September/53_Maximum_Subarray.cpp) |   Medium   | Array, Dynamic Programming, Divide and Conquer |
 | [69](https://leetcode.com/problems/sqrtx/) | Sqrt(x)          |  [C++](./2016/September/69_Sqrt_x.cpp)   |   Medium   | Binary Search, Math                      |
+
+### October
+
+|                    #                     | Title                |                 Solution                 | Difficulty | Tag                 |
+| :--------------------------------------: | -------------------- | :--------------------------------------: | :--------: | ------------------- |
+| [367](https://leetcode.com/problems/valid-perfect-square/) | Valid Perfect Square | [C++](./2016/September/367_Valid_Perfect_Square.cpp) |   Medium   | Binary Search, Math |
