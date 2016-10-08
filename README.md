@@ -121,7 +121,8 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 
 ### October
 
-|                    #                     | Title                |                 Solution                 | Difficulty | Tag                 |
-| :--------------------------------------: | -------------------- | :--------------------------------------: | :--------: | ------------------- |
-| [367](https://leetcode.com/problems/valid-perfect-square/) | Valid Perfect Square | [C++](./2016/September/367_Valid_Perfect_Square.cpp) |   Medium   | Binary Search, Math |
-| [194](https://leetcode.com/problems/max-points-on-a-line/) | Max Points on a Line | [C++](./2016/October/194_Max_Points_on_a_Line.cpp) |    Hard    | Hash Table, Math    |
+|                    #                     | Title                       |                 Solution                 | Difficulty | Tag                 |
+| :--------------------------------------: | --------------------------- | :--------------------------------------: | :--------: | ------------------- |
+| [367](https://leetcode.com/problems/valid-perfect-square/) | Valid Perfect Square        | [C++](./2016/September/367_Valid_Perfect_Square.cpp) |   Medium   | Binary Search, Math |
+| [194](https://leetcode.com/problems/max-points-on-a-line/) | Max Points on a Line        | [C++](./2016/October/194_Max_Points_on_a_Line.cpp) |    Hard    | Hash Table, Math    |
+| [199](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree Right Side View | [C++](./2016/October/199_Binary_Tree_Right_Side_View.cpp) |   Medium   | Tree, DFS, BFS      |
