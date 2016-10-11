@@ -121,9 +121,10 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 
 ### October
 
-|                    #                     | Title                       |                 Solution                 | Difficulty | Tag                 |
-| :--------------------------------------: | --------------------------- | :--------------------------------------: | :--------: | ------------------- |
-| [367](https://leetcode.com/problems/valid-perfect-square/) | Valid Perfect Square        | [C++](./2016/September/367_Valid_Perfect_Square.cpp) |   Medium   | Binary Search, Math |
-| [194](https://leetcode.com/problems/max-points-on-a-line/) | Max Points on a Line        | [C++](./2016/October/194_Max_Points_on_a_Line.cpp) |    Hard    | Hash Table, Math    |
-| [199](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree Right Side View | [C++](./2016/October/199_Binary_Tree_Right_Side_View.cpp) |   Medium   | Tree, DFS, BFS      |
-| [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [C++](./2016/October/203_Remove_Linked_List_Elements.cpp) |    Easy    | Linked List         |
+|                    #                     | Title                       |                 Solution                 | Difficulty | Tag                                  |
+| :--------------------------------------: | --------------------------- | :--------------------------------------: | :--------: | ------------------------------------ |
+| [367](https://leetcode.com/problems/valid-perfect-square/) | Valid Perfect Square        | [C++](./2016/September/367_Valid_Perfect_Square.cpp) |   Medium   | Binary Search, Math                  |
+| [194](https://leetcode.com/problems/max-points-on-a-line/) | Max Points on a Line        | [C++](./2016/October/194_Max_Points_on_a_Line.cpp) |    Hard    | Hash Table, Math                     |
+| [199](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree Right Side View | [C++](./2016/October/199_Binary_Tree_Right_Side_View.cpp) |   Medium   | Tree, DFS, BFS                       |
+| [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [C++](./2016/October/203_Remove_Linked_List_Elements.cpp) |    Easy    | Linked List                          |
+| [338](https://leetcode.com/problems/counting-bits/) | Counting Bits               | [C++](./2016/October/338_Counting_Bits.cpp) |   Medium   | Dynamic Progamming, Bit Manipulation |
