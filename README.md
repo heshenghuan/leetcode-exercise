@@ -128,3 +128,4 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [199](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree Right Side View | [C++](./2016/October/199_Binary_Tree_Right_Side_View.cpp) |   Medium   | Tree, DFS, BFS                       |
 | [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [C++](./2016/October/203_Remove_Linked_List_Elements.cpp) |    Easy    | Linked List                          |
 | [338](https://leetcode.com/problems/counting-bits/) | Counting Bits               | [C++](./2016/October/338_Counting_Bits.cpp) |   Medium   | Dynamic Progamming, Bit Manipulation |
+| [191](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits            | [C++](./2016/October/191_Number_of_1_Bits.cpp) |    Easy    | Bit Manipulation                     |
