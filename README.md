@@ -129,3 +129,4 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | [C++](./2016/October/203_Remove_Linked_List_Elements.cpp) |    Easy    | Linked List                          |
 | [338](https://leetcode.com/problems/counting-bits/) | Counting Bits               | [C++](./2016/October/338_Counting_Bits.cpp) |   Medium   | Dynamic Progamming, Bit Manipulation |
 | [191](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits            | [C++](./2016/October/191_Number_of_1_Bits.cpp) |    Easy    | Bit Manipulation                     |
+| [224](https://leetcode.com/problems/basic-calculator/) | Basic Calculator            | [C++](./2016/October/224_Basic_Calculator.cpp) |    Hard    | Stack, Math                          |
