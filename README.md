@@ -136,3 +136,11 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 |                    #                     | Title        |                 Solution                 | Difficulty | Tag              |
 | :--------------------------------------: | ------------ | :--------------------------------------: | :--------: | ---------------- |
 | [190](https://leetcode.com/problems/reverse-bits/) | Reverse Bits | [C++](./2016/November/190_Reverse_Bits.cpp) |    Easy    | Bit Manipulation |
+
+## Year 2017
+
+### February
+
+|                    #                     | Title                                  |                 Solution                 | Difficulty | Tag  |
+| :--------------------------------------: | -------------------------------------- | :--------------------------------------: | :--------: | ---- |
+| [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | K-th Smallest in Lexicographical Order | [Python](./2017/February/440_K-th_Smallest_in_Lexicographical_Order.py) |    Hard    | Tree |
