@@ -141,6 +141,7 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 
 ### February
 
-|                    #                     | Title                                  |                 Solution                 | Difficulty | Tag  |
-| :--------------------------------------: | -------------------------------------- | :--------------------------------------: | :--------: | ---- |
-| [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | K-th Smallest in Lexicographical Order | [Python](./2017/February/440_K-th_Smallest_in_Lexicographical_Order.py) |    Hard    | Tree |
+|                    #                     | Title                                  |                 Solution                 | Difficulty | Tag   |
+| :--------------------------------------: | -------------------------------------- | :--------------------------------------: | :--------: | ----- |
+| [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | K-th Smallest in Lexicographical Order | [Python](./2017/February/440_K-th_Smallest_in_Lexicographical_Order.py) |    Hard    | Tree  |
+| [485](https://leetcode.com/problems/max-consecutive-ones/) | Max Consecutive Ones                   | [Python](./2017/February/485_Max_Consecutive_Ones.py) |    Easy    | Array |
