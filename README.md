@@ -148,3 +148,4 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [455](https://leetcode.com/problems/assign-cookies/) | Assign Cookies                         | [Python](./2017/February/455_Assign_Cookies.py), [C++](./2017/February/455_Assign_Cookies.cpp) |    Easy    | Greedy |
 | [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz                              | [Python](./2017/February/412_Fizz_Buzz.py) |    Easy    | Math   |
 | [372](https://leetcode.com/problems/super-pow/) | Super Pow                              | [C++](./2017/February/372_Super_Pow.cpp) |   Medium   | Math   |
+| [473](https://leetcode.com/problems/matchsticks-to-square/) | Matchsticks to Square                  | [C++](./2017/February/473_Matchsticks_to_Square.cpp) |   Medium   | DFS    |
