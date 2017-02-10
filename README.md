@@ -141,11 +141,12 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 
 ### February
 
-|                    #                     | Title                                  |                 Solution                 | Difficulty | Tag    |
-| :--------------------------------------: | -------------------------------------- | :--------------------------------------: | :--------: | ------ |
-| [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | K-th Smallest in Lexicographical Order | [Python](./2017/February/440_K-th_Smallest_in_Lexicographical_Order.py) |    Hard    | Tree   |
-| [485](https://leetcode.com/problems/max-consecutive-ones/) | Max Consecutive Ones                   | [Python](./2017/February/485_Max_Consecutive_Ones.py) |    Easy    | Array  |
-| [455](https://leetcode.com/problems/assign-cookies/) | Assign Cookies                         | [Python](./2017/February/455_Assign_Cookies.py), [C++](./2017/February/455_Assign_Cookies.cpp) |    Easy    | Greedy |
-| [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz                              | [Python](./2017/February/412_Fizz_Buzz.py) |    Easy    | Math   |
-| [372](https://leetcode.com/problems/super-pow/) | Super Pow                              | [C++](./2017/February/372_Super_Pow.cpp) |   Medium   | Math   |
-| [473](https://leetcode.com/problems/matchsticks-to-square/) | Matchsticks to Square                  | [C++](./2017/February/473_Matchsticks_to_Square.cpp) |   Medium   | DFS    |
+|                    #                     | Title                                  |                 Solution                 | Difficulty | Tag         |
+| :--------------------------------------: | -------------------------------------- | :--------------------------------------: | :--------: | ----------- |
+| [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | K-th Smallest in Lexicographical Order | [Python](./2017/February/440_K-th_Smallest_in_Lexicographical_Order.py) |    Hard    | Tree        |
+| [485](https://leetcode.com/problems/max-consecutive-ones/) | Max Consecutive Ones                   | [Python](./2017/February/485_Max_Consecutive_Ones.py) |    Easy    | Array       |
+| [455](https://leetcode.com/problems/assign-cookies/) | Assign Cookies                         | [Python](./2017/February/455_Assign_Cookies.py), [C++](./2017/February/455_Assign_Cookies.cpp) |    Easy    | Greedy      |
+| [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz                              | [Python](./2017/February/412_Fizz_Buzz.py) |    Easy    | Math        |
+| [372](https://leetcode.com/problems/super-pow/) | Super Pow                              | [C++](./2017/February/372_Super_Pow.cpp) |   Medium   | Math        |
+| [473](https://leetcode.com/problems/matchsticks-to-square/) | Matchsticks to Square                  | [C++](./2017/February/473_Matchsticks_to_Square.cpp) |   Medium   | DFS         |
+| [160](https://leetcode.com/problems/intersection-of-two-linked-lists/?tab=Description) | Intersection of Two Linked Lists       | [C++](./2017/February/160_Intersection_of_Two_Linked_Lists.cpp) |    Easy    | Linked List |
