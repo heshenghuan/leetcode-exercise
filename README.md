@@ -151,3 +151,4 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 | [473](https://leetcode.com/problems/matchsticks-to-square/) | Matchsticks to Square                  | [C++](./2017/February/473_Matchsticks_to_Square.cpp) |   Medium   | DFS         |
 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists/?tab=Description) | Intersection of Two Linked Lists       | [C++](./2017/February/160_Intersection_of_Two_Linked_Lists.cpp) |    Easy    | Linked List |
 | [258](https://leetcode.com/problems/add-digits/) | Add Digits                             | [C++](./2017/February/258_Add_Digits.cpp) |    Easy    | Math        |
+| [68](https://leetcode.com/problems/text-justification/) | Text Justification                     | [Python](./2017/February/68_Text_Justification.py) |    Hard    | String      |
