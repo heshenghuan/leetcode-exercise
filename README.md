@@ -155,6 +155,7 @@ A record repository of leetcode exercise. Solution for LeetCode problems, for re
 
 ### March
 
-|                    #                     | Title           |                 Solution                 | Difficulty | Tag              |
-| :--------------------------------------: | --------------- | :--------------------------------------: | :--------: | ---------------- |
-| [2](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers | [C++](./2017/March/2_Add_Two_Numbers.cpp) |   Medium   | Linked List, Mat |
+|                    #                     | Title                   |                 Solution                 | Difficulty | Tag              |
+| :--------------------------------------: | ----------------------- | :--------------------------------------: | :--------: | ---------------- |
+| [2](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers         | [C++](./2017/March/2_Add_Two_Numbers.cpp) |   Medium   | Linked List, Mat |
+| [543](https://leetcode.com/problems/diameter-of-binary-tree/#/description) | Diameter of Binary Tree | [C++](./2017/March/543_Diameter_of_Binary_Tree.cpp) |    Easy    | Tree             |
